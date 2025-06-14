@@ -1,0 +1,17 @@
+{
+    "name": "Defesa da Base Triangular",
+    "short_name": "Defesa Base",
+    "start_url": ".",
+    "display": "fullscreen",
+    "orientation": "landscape",
+    "background_color": "#1a1a1a",
+    "theme_color": "#f0ad4e",
+    "description": "Um jogo de defesa de torre viciante com progressão permanente.",
+    "icons": [
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
